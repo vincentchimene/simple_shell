@@ -35,3 +35,4 @@ $ echo "ls -l" | ./hsh
 No known bugs.
 .SH AUTHOR
 Vincent Opurum, 
+Ichebadu Chukwu
