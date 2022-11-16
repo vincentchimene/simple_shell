@@ -15,7 +15,7 @@
 #define TOKEN_DELIMITERS " \t\r\n\a"
 extern char **environ;
 /**
- * struct builtins - Has builtins and associated funcs
+ * struct builtins - Has builtins and associated functions
  * @arg: Builtins name
  * @builtin: Mathcing builtin func
  */
