@@ -52,7 +52,7 @@ char *find_path(char *filename, char *tmp, char *er)
  *@fil: name of file being searched for
  *@fp: directory being searched through
  *@t: string containing the PATH variable's value
- *@l: length of filename 
+ *@l: length of filename
  *Return: success - path of fil/fil, else er
  */
 char *read_dir(char *er, struct dirent *s, char *fil, int l, char *fp, char *t)
