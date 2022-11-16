@@ -35,7 +35,7 @@ void prompt(void)
 	}
 }
 /**
- * _strstr - locates sub string
+ * _strstr - This locates sub string
  * @haystack: input one
  * @needle: input two
  * Return: sub string
