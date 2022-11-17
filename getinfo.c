@@ -14,7 +14,7 @@ void clear_info(info_t *info)
 }
 
 /**
- * set_info - initializes info_t struct
+ * set_info - Initializes info_t struct
  * @info: struct address
  * @av: argument vector
  */
