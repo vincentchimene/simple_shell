@@ -16,7 +16,7 @@ int _myhistory(info_t *info)
 /**
  * unset_alias - sets alias to string
  * @info: parameter struct
- * @str: the string alias
+ * @str: this is the string alias
  *
  * Return: Always 0 on success, 1 on error
  */
