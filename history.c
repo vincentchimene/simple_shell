@@ -1,10 +1,10 @@
 #include "shell.h"
 
 /**
- * get_history_file - gets the history file
- * @info: parameter struct
+ * get_history_file - Gets the history file
+ * @info: Parameter struct
  *
- * Return: allocated string containg history file
+ * Return: Allocated string containg history file
  */
 
 char *get_history_file(info_t *info)
@@ -25,8 +25,8 @@ char *get_history_file(info_t *info)
 }
 
 /**
- * write_history - creates a file, or appends to an existing file
- * @info: the parameter struct
+ * write_history - Creates a file, or appends to an existing file
+ * @info: The parameter struct
  *
  * Return: 1 on success, else -1
  */
@@ -54,8 +54,8 @@ int write_history(info_t *info)
 }
 
 /**
- * read_history - reads history from file
- * @info: the parameter struct
+ * read_history - Reads history from file
+ * @info: The parameter struct
  *
  * Return: histcount on success, 0 otherwise
  */
